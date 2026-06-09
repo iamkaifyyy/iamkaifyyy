@@ -4,8 +4,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzAzbHc0bDA0aHdjajh3aDFnc2ZjNXNlbHgyaWJuaGRlZWh6cGp2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/09cQrKEIk292YVvfke/giphy.gif" align="right" width="280"/>
 </div>
 
-#  About Me:
-Heyy, I'm Kaifyyy<br>CSE (AI/ML) student by day, builder by night.<br>I make full-stack apps, break things, fix them, and ship anyway.<br>Currently obsessed with DSA, fintech, and turning ideas into products.<br>eccentric, obsessive sometimes.... 
+# 💫 About Me:
+Heyy, I'm Kaifyyyy<br>
+CSE (AI/ML) student by day, builder & lifter by night.<br>
+Full-stack apps, DSA grind, fintech obsession — and yeah, I hit the gym too.<br>
+Eccentric. Obsessive. Ships anyway.
 
 
 ##  Socials:
