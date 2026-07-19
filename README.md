@@ -7,8 +7,8 @@
 # About Me:
 Heyy, I'm Kaifyyyy<br>
 CSE (AI/ML) student by day, builder & lifter by night.<br>
-Full-stack apps, DSA grind, fintech obsession — and yeah, I hit the gym too.<br>
-Eccentric. Obsessive. Ships anyway.
+Full-stack apps, fintech obsession — and yeah, I hit the gym too.<br>
+Eccentric. Obsessive. Shipping
 
 
 ##  Socials:
