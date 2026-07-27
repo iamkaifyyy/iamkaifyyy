@@ -5,6 +5,8 @@
 Previously at **@revlabzai**, now at **@amigoIndia**, building **@rephoodxyz** — I work across AI/ML and Web3 (ref `AIML ~ Web3`), I'm fintech obsessed, I ship code, and I lift heavy in between.
  
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVnbGUwZXpndmJtODFzaG5hZ2diYjgxNjIxczc0MWk0YmQ0dDg1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5PhphKlJ85AE9ibO9Y/giphy.gif" width="400" />
+
+
 ## Socials:
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamkaifyyy)
