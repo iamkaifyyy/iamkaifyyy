@@ -1,5 +1,6 @@
-# Kaifyyy
+
 <div align="center">
+# Kaifyyy
 # About Me:
  
 Previously at **@revlabzai**, now at **@amigoIndia**, building **@rephoodxyz** — I work across AI/ML and Web3 (ref `AIML ~ Web3`), I'm fintech obsessed, I ship code, and I lift heavy in between.
